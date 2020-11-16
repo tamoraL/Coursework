@@ -1,0 +1,24 @@
+body {
+    background-color:#2e3b39;
+}
+h1{
+    color:#b99f66;
+    font-family: The Wild Breath Of Zelda, serif;
+    font-size: 80px;
+    text-align: center;
+}
+p{
+    color:#5bbaac;
+    font-size: 40px;
+    text-align: center;
+
+}
+.button {
+    background-color: #b99f66;
+    font-family: Proxima Nova, sans-serif;
+    color: #2e3b39;
+    border: 5px solid white;
+    border-radius: 15px;
+    font-size: 50px;
+    text-align: center;
+}
